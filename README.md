@@ -1,4 +1,4 @@
-# EuroSAT LandUse CNN
+# Land Use Convolutional Neural Network trained with EuroSAT dataset
 <b>Development of a Convolutional Neural Network to accurately detect changes in land use and land cover</b><br>
 
 <b>Authors</b><br>
