@@ -9,6 +9,5 @@ Land use and land cover change (LULCC) are important in natural resource managem
 
 <b>Dataset download</b> <br> Data available at: [OneDrive](https://universidadevigo-my.sharepoint.com/:f:/g/personal/diego_barba_uvigo_gal/Eqwif4UAvRRIlt9We5PR0dsBdbzyfbPR-0vpqLwjEXiAjw?e=cPfwea)
 
-https://universidadevigo-my.sharepoint.com/:f:/g/personal/diego_barba_uvigo_gal/Eqwif4UAvRRIlt9We5PR0dsBdbzyfbPR-0vpqLwjEXiAjw?e=cPfwea
 <b>Link to the paper</b><br>
 Not avaialble yet
